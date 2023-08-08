@@ -2,7 +2,7 @@
 
 **gallery desigend by grid**
 
-
+![image psd](https://github.com/Faraz-Azizi-Developer/6/assets/140517125/2a1413c2-371e-46ef-8c13-fa71efe09c7f)
 
 - [Demo Project](https://faraz-azizi-developer.github.io/6/)
 
