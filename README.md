@@ -1,4 +1,4 @@
-![Untitled-1](https://github.com/Faraz-Azizi-Developer/6/assets/140517125/ac6e9166-ee2c-4503-90c5-fac77ba3aafa)# 6
+#6
 
 **gallery desigend by grid**
 
